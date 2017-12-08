@@ -1,0 +1,103 @@
+{
+  "cars": [{
+      "id": 0,
+      "name": "Ferrari",
+      "type": "truck",
+      "image": "http://www.carlogos.org/logo/Ferrari-logo.png",
+      "year": "2012",
+       "manufacturer":"Ford",
+     "model":"Ford F150",
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "name": "Lamborghini",
+      "type": "suv",
+      "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
+      "year": "2013",
+       "manufacturer":"Ford",
+     "model":"Ford Explorer",
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "name": "Porsche",
+      "type": "familycar",
+      "image": "http://www.carlogos.org/logo/Porsche-logo.png",
+      "year": "2013",
+      "manufacturer":"Mercedes",
+     "model":"Mercedes C - class",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Mercedes",
+      "type": "familycar",
+       "manufacturer":"Ford",
+     "model":"Ford F150",
+      "image": "http://www.carlogos.org/logo/Mercedes-Benz-logo.png",
+      "year": "2014",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "BMW",
+      "type": "suv",
+      "manufacturer":"Buick",
+     "model":"Buick Enclave",
+      "image": "http://www.carlogos.org/logo/BMW-logo.png",
+      "year": "2015",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Hyundai",
+      "type": "sportscar",
+       "manufacturer":"Mercedes",
+     "model":"Mercedes Sl500",
+      "image": "http://www.carlogos.org/logo/Hyundai-logo.png",
+      "year": "2013",
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "Lamborghini",
+      "type": "truck",
+      "manufacturer":"Buick",
+     "model":"Buick Enclave",
+      "image": "http://www.carlogos.org/logo/Lamborghini-logo.png",
+      "year": "2014",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Volkswagen",
+      "type": "sportscar",
+       "manufacturer":"Mercedes",
+     "model":"Mercedes Sl500",
+      "image": "http://www.carlogos.org/logo/Volkswagen-logo.png",
+      "year": "2012",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "Jaguar",
+      "type": "truck",
+       "manufacturer":"Mercedes",
+     "model":"Mercedes Sl500",
+      "image": "http://www.carlogos.org/logo/Jaguar-logo.png",
+      "year": "2013",
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "name": "Chevrolet",
+      "type": "suv",
+       "manufacturer":"Mercedes",
+     "model":"Mercedes Sl500",
+      "image": "http://www.carlogos.org/logo/Chevrolet-logo.png",
+      "year": "2014",
+      "rating": 4
+    }
+  ]
+}
