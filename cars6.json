@@ -9,8 +9,18 @@
  			"model": "Ford F150",
  			"rating": 4
  		},
+           {
+ 			"id": 1,
+ 			"name": "Ford",
+ 			"type": "truck",
+ 			"image": "http://www.carlogos.org/logo/Ford-logo-2003-1366x768.png",
+ 			"year": "2012",
+ 			"manufacturer": "Ford",
+ 			"model": "Ford F150",
+ 			"rating": 4
+ 		},
  		{
- 			"id": 0,
+ 			"id": 2,
  			"name": "Ford",
  			"type": "truck",
  			"image": "http://www.carlogos.org/logo/Ford-logo-2003-1366x768.png",
@@ -20,7 +30,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 0,
+ 			"id": 3,
  			"name": "Ford",
  			"type": "truck",
  			"image": "http://www.carlogos.org/logo/Ford-logo-2003-1366x768.png",
@@ -30,7 +40,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 0,
+ 			"id": 4,
  			"name": "Ford",
  			"type": "truck",
  			"image": "http://www.carlogos.org/logo/Ford-logo-2003-1366x768.png",
@@ -40,7 +50,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 0,
+ 			"id": 5,
  			"name": "Ford",
  			"type": "truck",
  			"image": "http://www.carlogos.org/logo/Ford-logo-2003-1366x768.png",
@@ -50,7 +60,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 1,
+ 			"id": 6,
  			"name": "Ford",
  			"type": "suv",
  			"image": "http://www.carlogos.org/logo/Ford-logo-2003-1366x768.png",
@@ -60,7 +70,7 @@
  			"rating": 3
  		},
  		{
- 			"id": 2,
+ 			"id": 7,
  			"name": "Mercedes",
  			"type": "familycar",
  			"image": "http://www.carlogos.org/logo/Mercedes-Benz-logo-2009-1920x1080.png",
@@ -70,7 +80,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 3,
+ 			"id": 8,
  			"name": "Ford",
  			"type": "familycar",
  			"manufacturer": "Ford",
@@ -80,7 +90,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 4,
+ 			"id": 9,
  			"name": "Buick",
  			"type": "suv",
  			"manufacturer": "Buick",
@@ -90,7 +100,7 @@
  			"rating": 5
  		},
  		{
- 			"id": 5,
+ 			"id": 10,
  			"name": "Mercedes",
  			"type": "sportscar",
  			"manufacturer": "Mercedes",
@@ -100,7 +110,7 @@
  			"rating": 3
  		},
  		{
- 			"id": 6,
+ 			"id": 11,
  			"name": "Buick",
  			"type": "truck",
  			"manufacturer": "Buick",
@@ -110,7 +120,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 7,
+ 			"id": 12,
  			"name": "Mercedes",
  			"type": "sportscar",
  			"manufacturer": "Mercedes",
@@ -120,7 +130,7 @@
  			"rating": 3
  		},
  		{
- 			"id": 8,
+ 			"id": 13,
  			"name": "Mercedes",
  			"type": "truck",
  			"manufacturer": "Mercedes",
@@ -130,7 +140,7 @@
  			"rating": 4
  		},
  		{
- 			"id": 9,
+ 			"id": 14,
  			"name": "Mercedes",
  			"type": "suv",
  			"manufacturer": "Mercedes",
