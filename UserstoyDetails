@@ -1,0 +1,9 @@
+User Story A Details 
+
+As a PizzaMe user, I want to be able to view the returned pizza establishments as a collection of cells rather than in a table.
+
+AC1:  The returned pizza establishments are presented to the user in a collection of cells.  The cells should have a blue border with a width of 5px.
+AC2:  Each Cell should be square and be a consistent size with 2 cells be row.
+AC3:  The padding for the cells should be 10 px on the left and right, and 16 pixels on the top and bottom to the nearest cell or view border.
+AC4:  The code should be structured such that additional layouts can easily be implemented in the future (i.e., cover flow)
+AC5:  Tapping on a cell will result in the same behavior that is currently in the app when tapping on a row in the table.
